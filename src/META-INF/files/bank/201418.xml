@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bank>
+    <account>
+        <id>001</id>
+        <customer>01</customer>
+        <amount>100</amount>
+        <date>10/03/2022</date>
+    </account>
+    <account>
+        <id>002</id>
+        <customer>02</customer>
+        <amount>050</amount>
+        <date>10/03/2022</date>
+    </account>
+    <account >
+        <id>003</id>
+        <customer>03</customer>
+        <amount>090</amount>
+        <date>10/03/2022</date>
+    </account>
+    <account>
+        <id>004</id>
+        <customer>150</customer>
+        <amount>120</amount>
+        <date>10/03/2022</date>
+    </account>
+    <account >
+        <id>005</id>
+        <customer>11</customer>
+        <amount>200</amount>
+        <date>10/03/2022</date>
+    </account>
+    <account >
+        <id>006</id>
+        <customer>20</customer>
+        <amount>125</amount>
+        <date>10/03/2022</date>
+    </account>
+    <account >
+        <id>007</id>
+        <customer>25</customer>
+        <amount>010</amount>
+        <date>10/03/2022</date>
+    </account>
+    <account >
+        <id>008</id>
+        <customer>30</customer>
+        <amount>111</amount>
+        <date>10/03/2022</date>
+    </account>
+    <account >
+        <id>009</id>
+        <customer>40</customer>
+        <amount>321</amount>
+        <date>10/03/2022</date>
+    </account>
+    <account >
+        <id>010</id>
+        <customer>50</customer>
+        <amount>241</amount>
+        <date>10/03/2022</date>
+    </account>
+</bank>
+
